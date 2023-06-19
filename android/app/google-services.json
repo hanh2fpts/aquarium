@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "145922518691",
+    "project_id": "aquarium-86fe4",
+    "storage_bucket": "aquarium-86fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145922518691:android:b8374f8741a266ae34d916",
+        "android_client_info": {
+          "package_name": "com.example.aquarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145922518691-6rnk6aob049799h94ph3heog6ph6r547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDQbr8HkB6W2cLS5XCXQglHu_1xrnfEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145922518691-6rnk6aob049799h94ph3heog6ph6r547.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145922518691-4932663f0qau5ggm4jbvh99q2m7jle4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fpts.ezmobilev2.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145922518691:android:ca494314ad91dff234d916",
+        "android_client_info": {
+          "package_name": "com.fpts.ezmobilev2.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145922518691-6rnk6aob049799h94ph3heog6ph6r547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDQbr8HkB6W2cLS5XCXQglHu_1xrnfEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145922518691-6rnk6aob049799h94ph3heog6ph6r547.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145922518691-4932663f0qau5ggm4jbvh99q2m7jle4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fpts.ezmobilev2.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

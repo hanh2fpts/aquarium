@@ -1,4 +1,4 @@
-package com.example.aquarium
+package com.fpts.ezmobilev2.dev
 
 import io.flutter.embedding.android.FlutterActivity
 
