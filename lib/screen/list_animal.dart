@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-class AnimalDetail extends StatelessWidget {
-  const AnimalDetail({super.key});
+class ListAnimal extends StatelessWidget {
+  const ListAnimal({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -40,7 +40,7 @@ class SearchWidget extends StatelessWidget {
     );
   }
 }
- 
+
 class ListAnimalWidget extends StatelessWidget {
   const ListAnimalWidget({super.key});
 

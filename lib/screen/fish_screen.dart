@@ -1,4 +1,4 @@
-import 'package:aquarium/screen/animal_detail.dart';
+import 'package:aquarium/screen/list_animal.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -56,7 +56,7 @@ class CardItem extends StatelessWidget {
             Navigator.push(
                 context,
                 CupertinoPageRoute(
-                  builder: (context) => const AnimalDetail(),
+                  builder: (context) => const ListAnimal(),
                 ));
           },
           child: Stack(children: [

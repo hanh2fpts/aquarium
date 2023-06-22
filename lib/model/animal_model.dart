@@ -12,7 +12,7 @@ class AnimalModel {
   // tuoi tho
   String? longevity;
   // nhiet do nuoc
-  String? template;
+  String? temperate;
   // do ph
   String? pH;
   //thuc an
